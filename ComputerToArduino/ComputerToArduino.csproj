@@ -88,6 +88,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="Documentation\[RU] Description of the project.docx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -106,10 +107,12 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\3.PNG" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="ComputerToArduino.exe" />
     <Content Include="Images\1.png" />
     <Content Include="Images\11.png" />
     <Content Include="Images\12.png" />
@@ -120,6 +123,11 @@
     <Content Include="Images\6.png" />
     <Content Include="Images\7.png" />
     <Content Include="Images\8.png" />
+    <Content Include="Images\circle.PNG" />
+    <Content Include="Images\rectangle.PNG" />
+    <Content Include="Images\square.PNG" />
+    <Content Include="Images\triangle.PNG" />
+    <Content Include="Video\Result.mp4" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
