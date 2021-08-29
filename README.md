@@ -1,4 +1,4 @@
 # Robot control (Arduino + .Net app)
 ## WHAT YOU CAN:
-* Robot movement
+* Control the movement of the robot.
 * Drawing standard shapes (circle, square, rectangle, triangle)
